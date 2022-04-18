@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'calculator-2001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95DF1B3BFB6641839EC223DF3BDF6247 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE1FDF237DF441248EAE351362331A4B }}
